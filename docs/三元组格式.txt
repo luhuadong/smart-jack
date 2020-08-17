@@ -1,0 +1,7 @@
+{
+	"CMD":"Write",
+	"ProductKey":"a1cFipBHJrr",
+	"DeviceSecret":"NOiNEld3iFPYk0N39GWwlGgYI7hoLWAE",
+	"DeviceName":"nQk1ClD7uBlO0wN40Qb3",
+	"ProductSecret":"Ho6VAfCwqzLqRmfx"
+}
